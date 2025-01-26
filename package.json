@@ -1,0 +1,15 @@
+{
+  "name": "dcs88appserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Bobthe28th",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^3.12.0",
+    "net": "^1.0.2"
+  }
+}
